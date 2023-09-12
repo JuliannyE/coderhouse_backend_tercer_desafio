@@ -1,0 +1,15 @@
+{
+  "name": "tercer_desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": ["express", "backend", "productManager"],
+  "author": "Julianny Estrada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
